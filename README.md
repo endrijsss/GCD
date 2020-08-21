@@ -1,2 +1,2 @@
 # GCD
-#Greatest common divider
+Greatest common divider
